@@ -3,6 +3,8 @@ layout: two-columns
 title: Customize my DocSearch
 ---
 
+// TODO
+
 ## What content do we recommend to index?
 
 ### Code blocks
